@@ -13,7 +13,7 @@ class Car #:nodoc:
 
   # How far can we go?
   def range
-    0
+    @fuel * MILES_PER_GALLON
   end
 end
 
