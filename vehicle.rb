@@ -16,4 +16,8 @@ class Vehicle
   def range
     @fuel * MILES_PER_GALLON
   end
+
+  def steel
+    'Turn front 2 wheels'
+  end
 end
