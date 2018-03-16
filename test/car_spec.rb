@@ -13,4 +13,9 @@ describe Car do
   it 'should Test car class' do
     expect(@car.range).to eq 200
   end
+
+  it 'display steer info' do
+    expect(@car.steer).to eq 'Turn front 2 wheels'
+  end
+
 end
