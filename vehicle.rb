@@ -17,7 +17,7 @@ class Vehicle
     @fuel * MILES_PER_GALLON
   end
 
-  def steel
+  def steer
     'Turn front 2 wheels'
   end
 end
