@@ -1,5 +1,5 @@
 class Motorcycle < Vehicle #:nodoc:
-  def steel
+  def steer
     'Turn front 1 wheels'
   end
 end
