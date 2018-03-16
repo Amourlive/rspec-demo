@@ -1,4 +1,4 @@
-require './../hero'
+require '../hero'
 require 'rspec'
 
 describe Hero do

@@ -1,5 +1,6 @@
+require '../vehicle'
 require 'rspec'
-require './../car'
+require '../car'
 
 describe Car do
   it 'should Test car class' do
